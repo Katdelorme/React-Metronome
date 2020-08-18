@@ -1,6 +1,31 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)
 
-## Available Scripts
+This repository is for a React practice project developed between January 12 - 22, 2020. This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Getting Started
+You can download a zip file, fork this project, or clone with HTTPS.
+
+## Built with
+* React
+* Javascript
+* Webpack
+* CSS
+
+## Development
+### Create React App
+The project's build configuration was initialized with "[Create React App](https://github.com/facebook/create-react-app?utm_source=katdelormegithub&utm_medium=github "Create React App")". This way you don’t need to install or configure webpack. It'll be preconfigured and hidden.
+
+To create a new app, choose the method you prefer:
+`npx create-react-app app-name` or `npm init react-app app-name` or `yarn create react-app app-name`
+
+`cd app-name`
+
+### Start
+`npm start`
+
+It will open in [http://localhost:3000](http://localhost:3000)
+
+## Additional Available Scripts
 
 In the project directory, you can run:
 
@@ -27,42 +52,25 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `yarn eject`
+## Author
+* Katherine Delorme - *[katherinedelorme.com](http://katherinedelorme.com?utm_source=github&utm_medium=repo&utm_campaign=react_metronome_readme "Portfolio Website")*
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+## License
+This project is licensed under the MIT License - see the LICENSE file for details. This product is meant for educational purposes only.
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+It is not to be sold or reproduced. It may not be sold or offered for sale, or included with another software product offered for sale.
 
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+MIT &#169; Dave Ceddia
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+## Acknowledgements
+6 Fun React Project Ideas by [Dave Ceddia](https://daveceddia.com/react-practice-projects/?utm_source=katdelormegithub&utm_medium=github "Dave Ceddia").
 
-## Learn More
+## Reach Katherine Delorme
+If you would like to contact someone regarding web design project or would like to hire me for work please send an email to info@katdelorme.com
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Coded by Katherine Delorme
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
+                                              CODE
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `yarn build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+Hand coded and designed with &hearts; by Katherine Delorme
