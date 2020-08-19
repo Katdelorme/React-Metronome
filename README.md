@@ -1,6 +1,6 @@
 ![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)
 
-This repository is for a React practice project developed between January 12 - 22, 2020. This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app?utm_source=katdelormegithub&utm_medium=github).
+This repository is for a React practice project developed between January 12 - 22, 2020. Using the slider a BPM (beats per minute) can be chosen. Pressing the start button will play an audio clicking sound. The higher the number the faster the click sound. This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app?utm_source=katdelormegithub&utm_medium=github).
 
 ## Getting Started
 You can download a zip file, fork this project, or clone with HTTPS.
